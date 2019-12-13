@@ -1,3 +1,11 @@
+### A Simple Redux Usage with REACT using REDUCERS/ACTIONS/STORE concept
+
+
+### UI
+![Top](https://github.com/farukhkhan07/React-Redux/blob/master/react-redux-app/images/image1.png)
+
+### Button Click
+![Scroll](https://github.com/farukhkhan07/React-Redux/blob/master/react-redux-app/images/iamge2.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
